@@ -1,5 +1,5 @@
 <script setup>
-import Header from './Components/Header.vue'
+import Header from './Components/Main/Header.vue'
 </script>
 
 <template>
@@ -15,7 +15,4 @@ body {
   padding: 0;
 }
 
-main {
-  padding: 20px;
-}
 </style>

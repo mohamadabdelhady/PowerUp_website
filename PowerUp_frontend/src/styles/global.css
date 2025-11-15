@@ -1,0 +1,22 @@
+/* Import Google Font - Change to your preferred font */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap');
+
+/* Apply Orbitron font only to heading tags */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.custom-btn{
+    background-color: #FB4A47;
+    color: white;
+    border:1px solid #FB4A47;
+}
+.custom-btn:hover{
+    background-color: white;
+    color: #e03e3b;
+    border:1px solid #FB4A47;
+}
+.form-control:focus {
+    border-color: #FB4A47;
+    box-shadow: 0 0 0 0.2rem rgba(251, 74, 71, 0.25);
+}
