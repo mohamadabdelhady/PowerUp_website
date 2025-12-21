@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerUp_WepAPI", "PowerUp_WepAPI\PowerUp_WepAPI.csproj", "{F96897D8-027D-4DE2-A388-3C7A3771A2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96897D8-027D-4DE2-A388-3C7A3771A2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96897D8-027D-4DE2-A388-3C7A3771A2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96897D8-027D-4DE2-A388-3C7A3771A2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96897D8-027D-4DE2-A388-3C7A3771A2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
